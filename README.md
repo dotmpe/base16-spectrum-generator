@@ -33,3 +33,9 @@ python main.py decaf.yaml decaf.png
 ### [Tomorrow](https://github.com/chriskempson/base16-tomorrow-scheme) by [Chris Kempson](https://github.com/chriskempson)
 
 ![Tomorrow Preview](png/tomorrow.png)
+
+### [Tango](https://en.wikipedia.org/wiki/Tango_Desktop_Project)
+
+One by [Schnouki](https://github.com/Schnouki/base16-tango-scheme)
+
+![Tango scheme](https://user-images.githubusercontent.com/310639/167235105-17f2fc85-bf9e-4b82-9699-2bb2e12096cf.png)
